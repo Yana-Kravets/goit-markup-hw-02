@@ -277,6 +277,10 @@ body {
 
 .address {}
 
+.address-contact {
+    text-decoration: none;
+}
+
 .first>a {
     opacity: 1;
 }
